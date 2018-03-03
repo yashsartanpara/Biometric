@@ -1,0 +1,35 @@
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\BiometricAttendance ConsoleApp.exe.config
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\BiometricAttendance ConsoleApp.exe
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\BiometricAttendance ConsoleApp.pdb
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\BAL.dll
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\SourceAFIS.dll
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\DAL.dll
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\MySql.Data.dll
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\BAL.pdb
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\SourceAFIS.xml
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\DAL.pdb
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\MySql.Data.xml
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\obj\Debug\BiometricAttendance ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\obj\Debug\BiometricAttendance ConsoleApp.exe
+C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Biometric based Attendance System\BiometricAttendance ConsoleApp\obj\Debug\BiometricAttendance ConsoleApp.pdb
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\BiometricAttendance ConsoleApp.exe.config
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\BiometricAttendance ConsoleApp.exe
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\BiometricAttendance ConsoleApp.pdb
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\BAL.dll
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\DAL.dll
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\MySql.Data.dll
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\BAL.pdb
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\SourceAFIS.xml
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\DAL.pdb
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\MySql.Data.xml
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\obj\Debug\BiometricAttendance ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\obj\Debug\BiometricAttendance ConsoleApp.exe
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\obj\Debug\BiometricAttendance ConsoleApp.pdb
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\SocketIOClient.dll
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\WebSocket4Net.dll
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\SocketIOClient.pdb
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\SocketIOClient.xml
+C:\Users\CaptainTorch\Desktop\Biometric based Attendance System Project2\Biometric based Attendance System\BiometricAttendance ConsoleApp\bin\Debug\WebSocket4Net.pdb

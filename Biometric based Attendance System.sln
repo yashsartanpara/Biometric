@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{7C92FE24-D47F-484E-B4F2-C78C8433BBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{C5785F3A-7DEE-4EFE-B0C1-404CF7F6DAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiometricAttendance ConsoleApp", "BiometricAttendance ConsoleApp\BiometricAttendance ConsoleApp.csproj", "{A6048EE2-7976-4566-AFB2-1DF4C456079B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C92FE24-D47F-484E-B4F2-C78C8433BBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C92FE24-D47F-484E-B4F2-C78C8433BBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C92FE24-D47F-484E-B4F2-C78C8433BBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C92FE24-D47F-484E-B4F2-C78C8433BBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5785F3A-7DEE-4EFE-B0C1-404CF7F6DAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5785F3A-7DEE-4EFE-B0C1-404CF7F6DAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5785F3A-7DEE-4EFE-B0C1-404CF7F6DAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5785F3A-7DEE-4EFE-B0C1-404CF7F6DAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6048EE2-7976-4566-AFB2-1DF4C456079B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6048EE2-7976-4566-AFB2-1DF4C456079B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6048EE2-7976-4566-AFB2-1DF4C456079B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6048EE2-7976-4566-AFB2-1DF4C456079B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
